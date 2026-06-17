@@ -1,0 +1,373 @@
+{
+    "overall_stats": {
+        "Population below age 15 years (%)": {
+            "overall_mean": 26.338470254957507,
+            "overall_std": 5.149684469832136
+        },
+        "Sex ratio at birth for children born in the last five years (females per 1,000 males)": {
+            "overall_mean": 944.2172804532578,
+            "overall_std": 118.38810612808022
+        },
+        "Female population age 6 years and above who ever attended school (%)": {
+            "overall_mean": 71.52747875354108,
+            "overall_std": 10.25043139117675
+        },
+        "Women age 20-24 years married before age 18 years (%)": {
+            "overall_mean": 20.42167138810198,
+            "overall_std": 12.357535297175527
+        },
+        "Current Use of Family Planning Methods (Currently Married Women Age 15-49  years) - Any modern method6 (%)": {
+            "overall_mean": 54.8415014164306,
+            "overall_std": 13.470455594105344
+        },
+        "Mothers who had at least 4 antenatal care visits  (for last birth in the 5 years before the survey) (%)": {
+            "overall_mean": 60.51388101983002,
+            "overall_std": 20.109346846431364
+        },
+        "Institutional births (in the 5 years before the survey) (%)": {
+            "overall_mean": 88.74079320113314,
+            "overall_std": 11.667072545471166
+        },
+        "Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)": {
+            "overall_mean": 77.73866855524079,
+            "overall_std": 11.805209196883686
+        },
+        "Children under 5 years who are stunted (height-for-age)18 (%)": {
+            "overall_mean": 33.47461756373938,
+            "overall_std": 8.339304777964179
+        },
+        "Women (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)": {
+            "overall_mean": 17.869405099150143,
+            "overall_std": 7.3501942416695245
+        },
+        "All women age 15-49 years who are anaemic22 (%)": {
+            "overall_mean": 55.89240793201133,
+            "overall_std": 11.72206039948788
+        },
+        "Population living in households that use an improved sanitation facility2 (%)": {
+            "overall_mean": 71.95920679886684,
+            "overall_std": 14.1986675908606
+        },
+        "Households using clean fuel for cooking3 (%)": {
+            "overall_mean": 54.13558073654391,
+            "overall_std": 24.1468495224708
+        },
+        "Men age 15 years and above who use any kind of tobacco (%)": {
+            "overall_mean": 40.58736543909348,
+            "overall_std": 13.981976092834344
+        },
+        "Households with any usual member covered under a health insurance/financing scheme (%)": {
+            "overall_mean": 40.23118980169972,
+            "overall_std": 22.974313655560334
+        },
+        "Average out-of-pocket expenditure per delivery in a public health facility (for last birth in the 5 years before the survey) (Rs.)": {
+            "overall_mean": 3498.3033994334282,
+            "overall_std": 2367.9715227681513
+        }
+    },
+    "cluster_profiles": {
+        "0": {
+            "size": 288,
+            "metrics": {
+                "Population below age 15 years (%)": {
+                    "mean": 30.137777777777778,
+                    "std": 4.341036292156292,
+                    "diff_from_overall": 3.7993075228202713,
+                    "z_diff": 0.7377748180645556
+                },
+                "Sex ratio at birth for children born in the last five years (females per 1,000 males)": {
+                    "mean": 936.4880208333333,
+                    "std": 101.3293765284145,
+                    "diff_from_overall": -7.729259619924505,
+                    "z_diff": -0.06528746740455897
+                },
+                "Female population age 6 years and above who ever attended school (%)": {
+                    "mean": 65.24743055555557,
+                    "std": 7.784208373056355,
+                    "diff_from_overall": -6.280048197985508,
+                    "z_diff": -0.6126618440069923
+                },
+                "Women age 20-24 years married before age 18 years (%)": {
+                    "mean": 28.76909722222222,
+                    "std": 11.641777910198062,
+                    "diff_from_overall": 8.34742583412024,
+                    "z_diff": 0.6754927769478556
+                },
+                "Current Use of Family Planning Methods (Currently Married Women Age 15-49  years) - Any modern method6 (%)": {
+                    "mean": 50.63229166666666,
+                    "std": 10.975892126400627,
+                    "diff_from_overall": -4.209209749763943,
+                    "z_diff": -0.31247716310396273
+                },
+                "Mothers who had at least 4 antenatal care visits  (for last birth in the 5 years before the survey) (%)": {
+                    "mean": 49.583958333333335,
+                    "std": 17.383093140581924,
+                    "diff_from_overall": -10.929922686496688,
+                    "z_diff": -0.5435244998241368
+                },
+                "Institutional births (in the 5 years before the survey) (%)": {
+                    "mean": 84.69479166666666,
+                    "std": 8.954624715151304,
+                    "diff_from_overall": -4.046001534466484,
+                    "z_diff": -0.34678806690346925
+                },
+                "Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)": {
+                    "mean": 73.97626736111111,
+                    "std": 10.65664439350693,
+                    "diff_from_overall": -3.76240119412968,
+                    "z_diff": -0.3187068633330844
+                },
+                "Children under 5 years who are stunted (height-for-age)18 (%)": {
+                    "mean": 39.50345486111111,
+                    "std": 6.691333553908571,
+                    "diff_from_overall": 6.02883729737173,
+                    "z_diff": 0.7229424343984118
+                },
+                "Women (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)": {
+                    "mean": 23.36793402777778,
+                    "std": 5.255276772664308,
+                    "diff_from_overall": 5.4985289286276355,
+                    "z_diff": 0.7480794041408487
+                },
+                "All women age 15-49 years who are anaemic22 (%)": {
+                    "mean": 60.43333333333333,
+                    "std": 9.461777131217804,
+                    "diff_from_overall": 4.540925401321999,
+                    "z_diff": 0.38738287012412814
+                },
+                "Population living in households that use an improved sanitation facility2 (%)": {
+                    "mean": 60.62458333333333,
+                    "std": 11.506262459372815,
+                    "diff_from_overall": -11.334623465533518,
+                    "z_diff": -0.7982878247554291
+                },
+                "Households using clean fuel for cooking3 (%)": {
+                    "mean": 36.9825,
+                    "std": 14.44865066099063,
+                    "diff_from_overall": -17.153080736543906,
+                    "z_diff": -0.7103651646390322
+                },
+                "Men age 15 years and above who use any kind of tobacco (%)": {
+                    "mean": 47.83506944444444,
+                    "std": 8.180612714546788,
+                    "diff_from_overall": 7.247704005350961,
+                    "z_diff": 0.5183604919096775
+                },
+                "Households with any usual member covered under a health insurance/financing scheme (%)": {
+                    "mean": 38.189166666666665,
+                    "std": 24.581942991845775,
+                    "diff_from_overall": -2.0420231350330553,
+                    "z_diff": -0.08888287875093222
+                },
+                "Average out-of-pocket expenditure per delivery in a public health facility (for last birth in the 5 years before the survey) (Rs.)": {
+                    "mean": 2594.0295138888887,
+                    "std": 1503.230383097004,
+                    "diff_from_overall": -904.2738855445396,
+                    "z_diff": -0.3818770102807006
+                }
+            }
+        },
+        "1": {
+            "size": 72,
+            "metrics": {
+                "Population below age 15 years (%)": {
+                    "mean": 28.259444444444444,
+                    "std": 5.125879763414549,
+                    "diff_from_overall": 1.9209741894869374,
+                    "z_diff": 0.37302755163746093
+                },
+                "Sex ratio at birth for children born in the last five years (females per 1,000 males)": {
+                    "mean": 982.5923611111112,
+                    "std": 128.01000969326816,
+                    "diff_from_overall": 38.37508065785346,
+                    "z_diff": 0.32414641903585073
+                },
+                "Female population age 6 years and above who ever attended school (%)": {
+                    "mean": 79.61916666666667,
+                    "std": 9.03884414740772,
+                    "diff_from_overall": 8.091687913125597,
+                    "z_diff": 0.7893997437113396
+                },
+                "Women age 20-24 years married before age 18 years (%)": {
+                    "mean": 15.531944444444443,
+                    "std": 8.506299676948444,
+                    "diff_from_overall": -4.8897269436575375,
+                    "z_diff": -0.39568787999134
+                },
+                "Current Use of Family Planning Methods (Currently Married Women Age 15-49  years) - Any modern method6 (%)": {
+                    "mean": 38.82194444444444,
+                    "std": 13.293823689163334,
+                    "diff_from_overall": -16.019556971986162,
+                    "z_diff": -1.1892364634642574
+                },
+                "Mothers who had at least 4 antenatal care visits  (for last birth in the 5 years before the survey) (%)": {
+                    "mean": 45.48388888888889,
+                    "std": 19.466392458998715,
+                    "diff_from_overall": -15.029992130941132,
+                    "z_diff": -0.747413242494665
+                },
+                "Institutional births (in the 5 years before the survey) (%)": {
+                    "mean": 72.40277777777777,
+                    "std": 18.654057612613684,
+                    "diff_from_overall": -16.338015423355372,
+                    "z_diff": -1.4003526042783832
+                },
+                "Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)": {
+                    "mean": 67.09722222222223,
+                    "std": 12.231229623008751,
+                    "diff_from_overall": -10.641446333018564,
+                    "z_diff": -0.9014195475525898
+                },
+                "Children under 5 years who are stunted (height-for-age)18 (%)": {
+                    "mean": 30.138680555555553,
+                    "std": 8.519912467027686,
+                    "diff_from_overall": -3.3359370081838264,
+                    "z_diff": -0.40002579315708947
+                },
+                "Women (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)": {
+                    "mean": 8.201736111111112,
+                    "std": 4.051247257059553,
+                    "diff_from_overall": -9.667668988039031,
+                    "z_diff": -1.3152943541588793
+                },
+                "All women age 15-49 years who are anaemic22 (%)": {
+                    "mean": 40.964375,
+                    "std": 13.27573121875423,
+                    "diff_from_overall": -14.928032932011334,
+                    "z_diff": -1.2734990627299205
+                },
+                "Population living in households that use an improved sanitation facility2 (%)": {
+                    "mean": 83.07638888888889,
+                    "std": 9.586793925089259,
+                    "diff_from_overall": 11.117182090022041,
+                    "z_diff": 0.7829736148748175
+                },
+                "Households using clean fuel for cooking3 (%)": {
+                    "mean": 47.81472222222222,
+                    "std": 22.909206217135015,
+                    "diff_from_overall": -6.320858514321685,
+                    "z_diff": -0.2617674205672074
+                },
+                "Men age 15 years and above who use any kind of tobacco (%)": {
+                    "mean": 54.419444444444444,
+                    "std": 12.193312515864845,
+                    "diff_from_overall": 13.832079005350963,
+                    "z_diff": 0.9892792630678147
+                },
+                "Households with any usual member covered under a health insurance/financing scheme (%)": {
+                    "mean": 35.16076388888889,
+                    "std": 21.128632209779752,
+                    "diff_from_overall": -5.070425912810833,
+                    "z_diff": -0.2206997775354072
+                },
+                "Average out-of-pocket expenditure per delivery in a public health facility (for last birth in the 5 years before the survey) (Rs.)": {
+                    "mean": 7250.130555555558,
+                    "std": 3446.9600891562923,
+                    "diff_from_overall": 3751.82715612213,
+                    "z_diff": 1.58440552179287
+                }
+            }
+        },
+        "2": {
+            "size": 346,
+            "metrics": {
+                "Population below age 15 years (%)": {
+                    "mean": 22.776300578034682,
+                    "std": 2.7498962640460016,
+                    "diff_from_overall": -3.5621696769228244,
+                    "z_diff": -0.6917258130649975
+                },
+                "Sex ratio at birth for children born in the last five years (females per 1,000 males)": {
+                    "mean": 942.6653179190752,
+                    "std": 127.93533753724265,
+                    "diff_from_overall": -1.5519625341826213,
+                    "z_diff": -0.013109108549330147
+                },
+                "Female population age 6 years and above who ever attended school (%)": {
+                    "mean": 75.07098265895954,
+                    "std": 9.397334414824572,
+                    "diff_from_overall": 3.5435039054184614,
+                    "z_diff": 0.34569314892138087
+                },
+                "Women age 20-24 years married before age 18 years (%)": {
+                    "mean": 14.491040462427744,
+                    "std": 9.27299995630661,
+                    "diff_from_overall": -5.930630925674237,
+                    "z_diff": -0.4799202092531962
+                },
+                "Current Use of Family Planning Methods (Currently Married Women Age 15-49  years) - Any modern method6 (%)": {
+                    "mean": 61.678670520231215,
+                    "std": 10.907765800066457,
+                    "diff_from_overall": 6.837169103800612,
+                    "z_diff": 0.507567769778518
+                },
+                "Mothers who had at least 4 antenatal care visits  (for last birth in the 5 years before the survey) (%)": {
+                    "mean": 72.73924855491329,
+                    "std": 14.150394966027031,
+                    "diff_from_overall": 12.225367535083265,
+                    "z_diff": 0.6079445358640675
+                },
+                "Institutional births (in the 5 years before the survey) (%)": {
+                    "mean": 95.50838150289017,
+                    "std": 4.953460419393441,
+                    "diff_from_overall": 6.76758830175703,
+                    "z_diff": 0.5800588172723774
+                },
+                "Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)": {
+                    "mean": 83.08478323699421,
+                    "std": 9.76789269527982,
+                    "diff_from_overall": 5.34611468175342,
+                    "z_diff": 0.4528606475829904
+                },
+                "Children under 5 years who are stunted (height-for-age)18 (%)": {
+                    "mean": 29.150578034682077,
+                    "std": 6.205692777870431,
+                    "diff_from_overall": -4.324039529057302,
+                    "z_diff": -0.5185131907498052
+                },
+                "Women (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)": {
+                    "mean": 15.30436416184971,
+                    "std": 5.7187749549918765,
+                    "diff_from_overall": -2.5650409373004326,
+                    "z_diff": -0.3489759389974718
+                },
+                "All women age 15-49 years who are anaemic22 (%)": {
+                    "mean": 55.21908959537572,
+                    "std": 10.289186519896738,
+                    "diff_from_overall": -0.6733183366356101,
+                    "z_diff": -0.057440271905187114
+                },
+                "Population living in households that use an improved sanitation facility2 (%)": {
+                    "mean": 79.08040462427745,
+                    "std": 9.950873815443401,
+                    "diff_from_overall": 7.121197825410604,
+                    "z_diff": 0.5015398649091819
+                },
+                "Households using clean fuel for cooking3 (%)": {
+                    "mean": 69.728612716763,
+                    "std": 20.298119191381943,
+                    "diff_from_overall": 15.593031980219088,
+                    "z_diff": 0.6457584442106362
+                },
+                "Men age 15 years and above who use any kind of tobacco (%)": {
+                    "mean": 31.67624277456647,
+                    "std": 12.23946142553938,
+                    "diff_from_overall": -8.91112266452701,
+                    "z_diff": -0.63732927344182
+                },
+                "Households with any usual member covered under a health insurance/financing scheme (%)": {
+                    "mean": 42.98602601156069,
+                    "std": 21.623446759047237,
+                    "diff_from_overall": 2.7548362098609687,
+                    "z_diff": 0.11990940191565777
+                },
+                "Average out-of-pocket expenditure per delivery in a public health facility (for last birth in the 5 years before the survey) (Rs.)": {
+                    "mean": 3470.2667630057804,
+                    "std": 1874.1226801659463,
+                    "diff_from_overall": -28.036636427647863,
+                    "z_diff": -0.011839938174118379
+                }
+            }
+        }
+    }
+}

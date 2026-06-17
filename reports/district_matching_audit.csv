@@ -1,0 +1,789 @@
+NFHS_District,lower_name,GeoJSON_District,_merge
+Adilabad ,adilabad,Adilabad,both
+Agar Malwa ,agar malwa,,left_only
+Agra ,agra,Agra,both
+Ahmadabad ,ahmadabad,Ahmadabad,both
+Ahmadnagar ,ahmadnagar,,left_only
+,ahmednagar,Ahmednagar,right_only
+Aizawl ,aizawl,Aizawl,both
+Ajmer ,ajmer,Ajmer,both
+Akola ,akola,Akola,both
+Alappuzha ,alappuzha,Alappuzha,both
+Aligarh ,aligarh,Aligarh,both
+Alirajpur ,alirajpur,,left_only
+Allahabad ,allahabad,Allahabad,both
+Almora ,almora,Almora,both
+Alwar ,alwar,Alwar,both
+Ambala ,ambala,Ambala,both
+Ambedkar Nagar ,ambedkar nagar,Ambedkar Nagar,both
+Amethi ,amethi,,left_only
+Amravati ,amravati,Amravati,both
+Amreli ,amreli,Amreli,both
+Amritsar ,amritsar,Amritsar,both
+Anand ,anand,Anand,both
+Anantapur ,anantapur,Anantapur,both
+Anantnag ,anantnag,,left_only
+,anantnag (kashmir south),Anantnag (Kashmir South),right_only
+,andaman islands,Andaman Islands,right_only
+,angul,Angul,right_only
+Anjaw ,anjaw,,left_only
+Anugul ,anugul,,left_only
+Anuppur ,anuppur,Anuppur,both
+Araria ,araria,Araria,both
+Aravali ,aravali,,left_only
+Ariyalur ,ariyalur,Ariyalur,both
+Arwal ,arwal,,left_only
+Ashoknagar ,ashoknagar,Ashoknagar,both
+Auraiya ,auraiya,Auraiya,both
+Aurangabad ,aurangabad,Aurangabad,both
+Azamgarh ,azamgarh,Azamgarh,both
+,badaun,Badaun,right_only
+Badgam ,badgam,,left_only
+Bagalkot ,bagalkot,Bagalkot,both
+,bagdam,Bagdam,right_only
+Bageshwar ,bageshwar,Bageshwar,both
+Baghpat ,baghpat,Baghpat,both
+Bahraich ,bahraich,Bahraich,both
+Baksa ,baksa,,left_only
+Balaghat ,balaghat,Balaghat,both
+Balangir ,balangir,,left_only
+Baleshwar ,baleshwar,Baleshwar,both
+Ballia ,ballia,Ballia,both
+Balod ,balod,,left_only
+Baloda Bazar ,baloda bazar,,left_only
+Balrampur ,balrampur,Balrampur,both
+Banas Kantha ,banas kantha,Banas Kantha,both
+Banda ,banda,Banda,both
+Bandipore ,bandipore,,left_only
+Bangalore ,bangalore,,left_only
+Bangalore Rural ,bangalore rural,Bangalore Rural,both
+,bangalore urban,Bangalore Urban,right_only
+Banka ,banka,Banka,both
+Bankura ,bankura,Bankura,both
+Banswara ,banswara,Banswara,both
+Bara Banki ,bara banki,Bara Banki,both
+,baragarh,Baragarh,right_only
+Baramula ,baramula,,left_only
+,baramula (kashmir north),Baramula (Kashmir North),right_only
+Baran ,baran,Baran,both
+,barddhaman,Barddhaman,right_only
+Bareilly ,bareilly,Bareilly,both
+Bargarh ,bargarh,,left_only
+Barmer ,barmer,Barmer,both
+Barnala ,barnala,,left_only
+Barpeta ,barpeta,Barpeta,both
+Barwani ,barwani,Barwani,both
+Bastar ,bastar,Bastar,both
+Basti ,basti,Basti,both
+Bathinda ,bathinda,Bathinda,both
+Baudh ,baudh,,left_only
+Begusarai ,begusarai,Begusarai,both
+Belgaum ,belgaum,Belgaum,both
+Bellary ,bellary,Bellary,both
+Bemetara ,bemetara,,left_only
+Betul ,betul,Betul,both
+,bhabua,Bhabua,right_only
+Bhadradri Kothagudem ,bhadradri kothagudem,,left_only
+Bhadrak ,bhadrak,Bhadrak,both
+Bhagalpur ,bhagalpur,Bhagalpur,both
+Bhandara ,bhandara,Bhandara,both
+Bharatpur ,bharatpur,Bharatpur,both
+Bharuch ,bharuch,Bharuch,both
+Bhavnagar ,bhavnagar,Bhavnagar,both
+Bhilwara ,bhilwara,Bhilwara,both
+Bhind ,bhind,Bhind,both
+Bhiwani ,bhiwani,Bhiwani,both
+Bhojpur ,bhojpur,Bhojpur,both
+Bhopal ,bhopal,Bhopal,both
+Bid ,bid,Bid,both
+Bidar ,bidar,Bidar,both
+Bijapur ,bijapur,Bijapur,both
+Bijnor ,bijnor,Bijnor,both
+Bikaner ,bikaner,Bikaner,both
+Bilaspur ,bilaspur,Bilaspur,both
+Birbhum ,birbhum,Birbhum,both
+Bishnupur ,bishnupur,Bishnupur,both
+Biswanath ,biswanath,,left_only
+Bokaro ,bokaro,Bokaro,both
+,bolangir,Bolangir,right_only
+Bongaigaon ,bongaigaon,Bongaigaon,both
+Botad ,botad,,left_only
+,boudh,Boudh,right_only
+Budaun ,budaun,,left_only
+Bulandshahr ,bulandshahr,Bulandshahr,both
+Buldana ,buldana,Buldana,both
+Bundi ,bundi,Bundi,both
+Burhanpur ,burhanpur,Burhanpur,both
+Buxar ,buxar,Buxar,both
+Cachar ,cachar,Cachar,both
+Central ,central,,left_only
+Chamarajanagar ,chamarajanagar,,left_only
+Chamba ,chamba,Chamba,both
+Chamoli ,chamoli,Chamoli,both
+Champawat ,champawat,Champawat,both
+Champhai ,champhai,Champhai,both
+,chamrajnagar,Chamrajnagar,right_only
+Chandauli ,chandauli,Chandauli,both
+Chandel ,chandel,Chandel,both
+Chandigarh,chandigarh,Chandigarh,both
+Chandrapur ,chandrapur,Chandrapur,both
+Changlang ,changlang,Changlang,both
+Charaideo ,charaideo,,left_only
+Charkhi Dadri ,charkhi dadri,,left_only
+Chatra ,chatra,Chatra,both
+Chennai ,chennai,Chennai,both
+Chhatarpur ,chhatarpur,Chhatarpur,both
+Chhindwara ,chhindwara,Chhindwara,both
+Chhota Udaipur ,chhota udaipur,,left_only
+Chikkaballapura ,chikkaballapura,,left_only
+Chikmagalur ,chikmagalur,Chikmagalur,both
+Chirang ,chirang,,left_only
+Chitradurga ,chitradurga,Chitradurga,both
+Chitrakoot ,chitrakoot,Chitrakoot,both
+Chittaurgarh ,chittaurgarh,Chittaurgarh,both
+Chittoor ,chittoor,Chittoor,both
+Churachandpur ,churachandpur,Churachandpur,both
+Churu ,churu,Churu,both
+Coimbatore ,coimbatore,Coimbatore,both
+Cuddalore ,cuddalore,Cuddalore,both
+,cuddapah,Cuddapah,right_only
+Cuttack ,cuttack,Cuttack,both
+Dadra & Nagar Haveli ,dadra & nagar haveli,,left_only
+,dadra and nagar haveli,Dadra and Nagar Haveli,right_only
+,dahod,Dahod,right_only
+Dakshin Dinajpur ,dakshin dinajpur,Dakshin Dinajpur,both
+,dakshin kannad,Dakshin Kannad,right_only
+Dakshina Kannada ,dakshina kannada,,left_only
+Daman ,daman,Daman,both
+Damoh ,damoh,Damoh,both
+Dantewada ,dantewada,Dantewada,both
+Darbhanga ,darbhanga,Darbhanga,both
+Darjiling ,darjiling,Darjiling,both
+Darrang ,darrang,Darrang,both
+Datia ,datia,Datia,both
+Dausa ,dausa,Dausa,both
+Davanagere ,davanagere,Davanagere,both
+Debagarh ,debagarh,,left_only
+,dehra dun,Dehra Dun,right_only
+Dehradun ,dehradun,,left_only
+,delhi,Delhi,right_only
+,deogarh,Deogarh,right_only
+Deoghar ,deoghar,Deoghar,both
+Deoria ,deoria,Deoria,both
+Devbhumi Dwarka ,devbhumi dwarka,,left_only
+Dewas ,dewas,Dewas,both
+Dhalai ,dhalai,Dhalai,both
+Dhamtari ,dhamtari,Dhamtari,both
+Dhanbad ,dhanbad,Dhanbad,both
+Dhar ,dhar,Dhar,both
+Dharmapuri ,dharmapuri,Dharmapuri,both
+Dharwad ,dharwad,Dharwad,both
+Dhaulpur ,dhaulpur,Dhaulpur,both
+Dhemaji ,dhemaji,Dhemaji,both
+Dhenkanal ,dhenkanal,Dhenkanal,both
+Dhubri ,dhubri,,left_only
+,dhuburi,Dhuburi,right_only
+Dhule ,dhule,Dhule,both
+Dibang Valley ,dibang valley,,left_only
+Dibrugarh ,dibrugarh,Dibrugarh,both
+Dima Hasao ,dima hasao,,left_only
+Dimapur ,dimapur,Dimapur,both
+Dindigul ,dindigul,Dindigul,both
+Dindori ,dindori,Dindori,both
+Diu ,diu,,left_only
+Doda ,doda,Doda,both
+Dohad ,dohad,,left_only
+Dumka ,dumka,Dumka,both
+Dungarpur ,dungarpur,Dungarpur,both
+Durg ,durg,Durg,both
+East ,east,East,both
+East District ,east district,,left_only
+East Garo Hills ,east garo hills,East Garo Hills,both
+East Godavari ,east godavari,East Godavari,both
+,east imphal,East Imphal,right_only
+East Jantia Hills ,east jantia hills,,left_only
+East Kameng ,east kameng,East Kameng,both
+East Khasi Hills ,east khasi hills,East Khasi Hills,both
+,east midnapore,East Midnapore,right_only
+,east nimar,East Nimar,right_only
+East Siang ,east siang,East Siang,both
+Ernakulam ,ernakulam,Ernakulam,both
+Erode ,erode,Erode,both
+Etah ,etah,Etah,both
+Etawah ,etawah,Etawah,both
+Faizabad ,faizabad,Faizabad,both
+Faridabad ,faridabad,Faridabad,both
+Faridkot ,faridkot,Faridkot,both
+Farrukhabad ,farrukhabad,Farrukhabad,both
+Fatehabad ,fatehabad,Fatehabad,both
+Fatehgarh Sahib ,fatehgarh sahib,Fatehgarh Sahib,both
+Fatehpur ,fatehpur,Fatehpur,both
+Fazilka ,fazilka,,left_only
+Firozabad ,firozabad,Firozabad,both
+Firozpur ,firozpur,Firozpur,both
+Gadag ,gadag,Gadag,both
+Gadchiroli ,gadchiroli,,left_only
+Gajapati ,gajapati,Gajapati,both
+Ganderbal ,ganderbal,,left_only
+Gandhinagar ,gandhinagar,Gandhinagar,both
+Ganganagar ,ganganagar,Ganganagar,both
+Ganjam ,ganjam,Ganjam,both
+,garhchiroli,Garhchiroli,right_only
+Garhwa ,garhwa,Garhwa,both
+Garhwal ,garhwal,,left_only
+Gariyaband ,gariyaband,,left_only
+Gautam Buddha Nagar ,gautam buddha nagar,Gautam Buddha Nagar,both
+Gaya ,gaya,Gaya,both
+Ghaziabad ,ghaziabad,Ghaziabad,both
+Ghazipur ,ghazipur,Ghazipur,both
+Gir Somnath ,gir somnath,,left_only
+Giridih ,giridih,Giridih,both
+Goalpara ,goalpara,Goalpara,both
+Godda ,godda,Godda,both
+Golaghat ,golaghat,Golaghat,both
+Gomati ,gomati,,left_only
+Gonda ,gonda,Gonda,both
+Gondiya ,gondiya,Gondiya,both
+Gopalganj ,gopalganj,Gopalganj,both
+Gorakhpur ,gorakhpur,Gorakhpur,both
+,greater bombay,Greater Bombay,right_only
+Gulbarga ,gulbarga,Gulbarga,both
+Gumla ,gumla,Gumla,both
+Guna ,guna,Guna,both
+Guntur ,guntur,Guntur,both
+Gurdaspur ,gurdaspur,Gurdaspur,both
+Gurgaon ,gurgaon,Gurgaon,both
+Gwalior ,gwalior,Gwalior,both
+Hailakandi ,hailakandi,Hailakandi,both
+Hamirpur ,hamirpur,Hamirpur,both
+Hanumangarh ,hanumangarh,Hanumangarh,both
+Haora ,haora,Haora,both
+Hapur ,hapur,,left_only
+Harda ,harda,Harda,both
+Hardoi ,hardoi,Hardoi,both
+Hardwar ,hardwar,,left_only
+,haridwar,Haridwar,right_only
+Hassan ,hassan,Hassan,both
+,hathras,Hathras,right_only
+Haveri ,haveri,Haveri,both
+,hazaribag,Hazaribag,right_only
+Hazaribagh ,hazaribagh,,left_only
+Hingoli ,hingoli,Hingoli,both
+Hisar ,hisar,Hisar,both
+Hojai ,hojai,,left_only
+Hoshangabad ,hoshangabad,Hoshangabad,both
+Hoshiarpur ,hoshiarpur,Hoshiarpur,both
+Hugli ,hugli,Hugli,both
+Hyderabad ,hyderabad,Hyderabad,both
+Idukki ,idukki,Idukki,both
+Imphal East ,imphal east,,left_only
+Imphal West ,imphal west,,left_only
+Indore ,indore,Indore,both
+Jabalpur ,jabalpur,Jabalpur,both
+Jagatsinghapur ,jagatsinghapur,,left_only
+,jagatsinghpur,Jagatsinghpur,right_only
+Jagitial ,jagitial,,left_only
+,jaintia hills,Jaintia Hills,right_only
+Jaipur ,jaipur,Jaipur,both
+Jaisalmer ,jaisalmer,Jaisalmer,both
+Jajapur ,jajapur,,left_only
+,jajpur,Jajpur,right_only
+Jalandhar ,jalandhar,Jalandhar,both
+Jalaun ,jalaun,Jalaun,both
+Jalgaon ,jalgaon,Jalgaon,both
+Jalna ,jalna,Jalna,both
+Jalor ,jalor,Jalor,both
+Jalpaiguri ,jalpaiguri,Jalpaiguri,both
+Jammu ,jammu,Jammu,both
+Jamnagar ,jamnagar,Jamnagar,both
+Jamtara ,jamtara,Jamtara,both
+Jamui ,jamui,Jamui,both
+Jangoan ,jangoan,,left_only
+Janjgir - Champa ,janjgir - champa,,left_only
+,janjgir-champa,Janjgir-Champa,right_only
+Jashpur ,jashpur,Jashpur,both
+Jaunpur ,jaunpur,Jaunpur,both
+Jayashankar Bhupalapally ,jayashankar bhupalapally,,left_only
+Jehanabad ,jehanabad,Jehanabad,both
+Jhabua ,jhabua,Jhabua,both
+Jhajjar ,jhajjar,Jhajjar,both
+Jhalawar ,jhalawar,Jhalawar,both
+Jhansi ,jhansi,Jhansi,both
+Jharsuguda ,jharsuguda,Jharsuguda,both
+Jhunjhunun ,jhunjhunun,Jhunjhunun,both
+Jind ,jind,Jind,both
+Jodhpur ,jodhpur,Jodhpur,both
+Jogulamba Gadwal ,jogulamba gadwal,,left_only
+Jorhat ,jorhat,Jorhat,both
+Junagadh ,junagadh,Junagadh,both
+Jyotiba Phule Nagar ,jyotiba phule nagar,Jyotiba Phule Nagar,both
+Kabeerdham ,kabeerdham,,left_only
+Kachchh ,kachchh,Kachchh,both
+Kaimur (Bhabua) ,kaimur (bhabua),,left_only
+Kaithal ,kaithal,Kaithal,both
+Kalahandi ,kalahandi,Kalahandi,both
+Kamareddy ,kamareddy,,left_only
+Kamrup ,kamrup,Kamrup,both
+Kamrup Metropolitan ,kamrup metropolitan,,left_only
+Kancheepuram ,kancheepuram,Kancheepuram,both
+Kandhamal ,kandhamal,Kandhamal,both
+Kangra ,kangra,Kangra,both
+,kanker,Kanker,right_only
+Kannauj ,kannauj,Kannauj,both
+Kanniyakumari ,kanniyakumari,Kanniyakumari,both
+Kannur ,kannur,Kannur,both
+,kanpur,Kanpur,right_only
+Kanpur Dehat ,kanpur dehat,Kanpur Dehat,both
+Kanpur Nagar ,kanpur nagar,,left_only
+Kanshiram Nagar ,kanshiram nagar,,left_only
+Kapurthala ,kapurthala,Kapurthala,both
+Karaikal ,karaikal,Karaikal,both
+Karauli ,karauli,Karauli,both
+Karbi Anglong ,karbi anglong,Karbi Anglong,both
+Kargil ,kargil,Kargil,both
+Karimganj ,karimganj,Karimganj,both
+Karimnagar ,karimnagar,Karimnagar,both
+Karnal ,karnal,Karnal,both
+Karur ,karur,Karur,both
+Kasaragod ,kasaragod,Kasaragod,both
+Kathua ,kathua,Kathua,both
+Katihar ,katihar,Katihar,both
+Katni ,katni,Katni,both
+Kaushambi ,kaushambi,Kaushambi,both
+,kavaratti,Kavaratti,right_only
+,kawardha,Kawardha,right_only
+Kendrapara ,kendrapara,Kendrapara,both
+Kendujhar ,kendujhar,,left_only
+,keonjhar,Keonjhar,right_only
+Khagaria ,khagaria,Khagaria,both
+Khammam ,khammam,Khammam,both
+Khandwa (East Nimar) ,khandwa (east nimar),,left_only
+Khargone (West Nimar) ,khargone (west nimar),,left_only
+Kheda ,kheda,Kheda,both
+Kheri ,kheri,,left_only
+Khordha ,khordha,Khordha,both
+Khowai ,khowai,,left_only
+Khunti ,khunti,,left_only
+Kinnaur ,kinnaur,Kinnaur,both
+Kiphire ,kiphire,,left_only
+Kishanganj ,kishanganj,Kishanganj,both
+Kishtwar ,kishtwar,,left_only
+Koch Bihar ,koch bihar,,left_only
+,kochbihar,Kochbihar,right_only
+Kodagaon ,kodagaon,,left_only
+Kodagu ,kodagu,Kodagu,both
+Kodarma ,kodarma,,left_only
+,koderma,Koderma,right_only
+Kohima ,kohima,Kohima,both
+Kokrajhar ,kokrajhar,Kokrajhar,both
+Kolar ,kolar,Kolar,both
+Kolasib ,kolasib,Kolasib,both
+Kolhapur ,kolhapur,Kolhapur,both
+Kolkata ,kolkata,Kolkata,both
+Kollam ,kollam,Kollam,both
+Komaram Bheem Asifabad ,komaram bheem asifabad,,left_only
+Koppal ,koppal,Koppal,both
+Koraput ,koraput,Koraput,both
+Korba ,korba,Korba,both
+Koriya ,koriya,Koriya,both
+Kota ,kota,Kota,both
+Kottayam ,kottayam,Kottayam,both
+Kozhikode ,kozhikode,Kozhikode,both
+Kra Daadi ,kra daadi,,left_only
+Krishna ,krishna,Krishna,both
+Krishnagiri ,krishnagiri,,left_only
+Kulgam ,kulgam,,left_only
+Kullu ,kullu,Kullu,both
+Kupwara ,kupwara,,left_only
+,kupwara (muzaffarabad),Kupwara (Muzaffarabad),right_only
+Kurnool ,kurnool,Kurnool,both
+Kurukshetra ,kurukshetra,Kurukshetra,both
+Kurung Kumey ,kurung kumey,Kurung Kumey,both
+Kushinagar ,kushinagar,Kushinagar,both
+,ladakh (leh),Ladakh (Leh),right_only
+Lahul & Spiti ,lahul & spiti,,left_only
+,lahul and spiti,Lahul and Spiti,right_only
+Lakhimpur ,lakhimpur,Lakhimpur,both
+,lakhimpur kheri,Lakhimpur Kheri,right_only
+Lakhisarai ,lakhisarai,Lakhisarai,both
+Lakshadweep ,lakshadweep,,left_only
+Lalitpur ,lalitpur,Lalitpur,both
+Latehar ,latehar,Latehar,both
+Latur ,latur,Latur,both
+Lawngtlai ,lawngtlai,Lawngtlai,both
+Leh(Ladakh) ,leh(ladakh),,left_only
+Lohardaga ,lohardaga,Lohardaga,both
+Lohit ,lohit,Lohit,both
+Longding ,longding,,left_only
+Longleng ,longleng,,left_only
+Lower Dibang Valley ,lower dibang valley,Lower Dibang Valley,both
+Lower Subansiri ,lower subansiri,Lower Subansiri,both
+Lucknow ,lucknow,Lucknow,both
+Ludhiana ,ludhiana,Ludhiana,both
+Lunglei ,lunglei,Lunglei,both
+Madhepura ,madhepura,Madhepura,both
+Madhubani ,madhubani,Madhubani,both
+Madurai ,madurai,Madurai,both
+Mahabubabad ,mahabubabad,,left_only
+Mahabubnagar ,mahabubnagar,,left_only
+Mahamaya Nagar ,mahamaya nagar,,left_only
+,maharajganj,Maharajganj,right_only
+Mahasamund ,mahasamund,Mahasamund,both
+,mahbubnagar,Mahbubnagar,right_only
+Mahe ,mahe,Mahe,both
+Mahendragarh ,mahendragarh,Mahendragarh,both
+Mahesana ,mahesana,Mahesana,both
+Mahisagar ,mahisagar,,left_only
+Mahoba ,mahoba,Mahoba,both
+Mahrajganj ,mahrajganj,,left_only
+Mainpuri ,mainpuri,Mainpuri,both
+Majuli ,majuli,,left_only
+Malappuram ,malappuram,Malappuram,both
+Maldah ,maldah,Maldah,both
+Malkangiri ,malkangiri,Malkangiri,both
+Mamit ,mamit,Mamit,both
+Mancherial ,mancherial,,left_only
+Mandi ,mandi,Mandi,both
+Mandla ,mandla,Mandla,both
+Mandsaur ,mandsaur,Mandsaur,both
+Mandya ,mandya,Mandya,both
+Mansa ,mansa,Mansa,both
+,marigaon,Marigaon,right_only
+Mathura ,mathura,Mathura,both
+Mau ,mau,Mau,both
+Mayurbhanj ,mayurbhanj,Mayurbhanj,both
+Medak ,medak,Medak,both
+Medchal-Malkajgiri ,medchal-malkajgiri,,left_only
+Meerut ,meerut,Meerut,both
+Mewat ,mewat,,left_only
+Mirzapur ,mirzapur,Mirzapur,both
+Moga ,moga,Moga,both
+Mokokchung ,mokokchung,Mokokchung,both
+Mon ,mon,Mon,both
+Moradabad ,moradabad,Moradabad,both
+Morbi ,morbi,,left_only
+Morena ,morena,Morena,both
+Morigaon ,morigaon,,left_only
+Muktsar ,muktsar,Muktsar,both
+Mumbai ,mumbai,,left_only
+Mumbai Suburban ,mumbai suburban,,left_only
+Mungeli ,mungeli,,left_only
+Munger ,munger,Munger,both
+Murshidabad ,murshidabad,Murshidabad,both
+Muzaffarnagar ,muzaffarnagar,Muzaffarnagar,both
+Muzaffarpur ,muzaffarpur,Muzaffarpur,both
+Mysore ,mysore,Mysore,both
+Nabarangapur ,nabarangapur,,left_only
+,nabarangpur,Nabarangpur,right_only
+Nadia ,nadia,Nadia,both
+Nagaon ,nagaon,Nagaon,both
+Nagapattinam ,nagapattinam,Nagapattinam,both
+Nagarkurnool ,nagarkurnool,,left_only
+Nagaur ,nagaur,Nagaur,both
+Nagpur ,nagpur,Nagpur,both
+,naini tal,Naini Tal,right_only
+Nainital ,nainital,,left_only
+Nalanda ,nalanda,Nalanda,both
+Nalbari ,nalbari,Nalbari,both
+Nalgonda ,nalgonda,Nalgonda,both
+Namakkal ,namakkal,Namakkal,both
+Namsai ,namsai,,left_only
+Nanded ,nanded,Nanded,both
+Nandurbar ,nandurbar,Nandurbar,both
+Narayanpur ,narayanpur,,left_only
+Narmada ,narmada,Narmada,both
+Narsimhapur ,narsimhapur,,left_only
+,narsinghpur,Narsinghpur,right_only
+Nashik ,nashik,Nashik,both
+Navsari ,navsari,Navsari,both
+Nawada ,nawada,Nawada,both
+,nawan shehar,Nawan Shehar,right_only
+Nayagarh ,nayagarh,Nayagarh,both
+Neemuch ,neemuch,Neemuch,both
+,nellore,Nellore,right_only
+New Delhi ,new delhi,,left_only
+,nicobar islands,Nicobar Islands,right_only
+Nicobars,nicobars,,left_only
+,nilgiris,Nilgiris,right_only
+Nirmal ,nirmal,,left_only
+Nizamabad ,nizamabad,Nizamabad,both
+North ,north,,left_only
+North  District ,north  district,,left_only
+North & Middle Andaman ,north & middle andaman,,left_only
+,north 24 parganas,North 24 Parganas,right_only
+,north cachar hills,North Cachar Hills,right_only
+North East ,north east,,left_only
+North Garo Hills ,north garo hills,,left_only
+North Goa ,north goa,North Goa,both
+,north sikkim,North Sikkim,right_only
+North Tripura ,north tripura,North Tripura,both
+North Twenty Four Pargana ,north twenty four pargana,,left_only
+North West ,north west,,left_only
+Nuapada ,nuapada,Nuapada,both
+Osmanabad ,osmanabad,Osmanabad,both
+Pakur ,pakur,Pakur,both
+Palakkad ,palakkad,Palakkad,both
+Palamu ,palamu,Palamu,both
+Palghar ,palghar,,left_only
+Pali ,pali,Pali,both
+Palwal ,palwal,,left_only
+Panch Mahals ,panch mahals,Panch Mahals,both
+Panchkula ,panchkula,Panchkula,both
+Panipat ,panipat,Panipat,both
+Panna ,panna,Panna,both
+Papum Pare ,papum pare,Papum Pare,both
+Parbhani ,parbhani,Parbhani,both
+Paschim Barddhaman ,paschim barddhaman,,left_only
+Paschim Medinipur ,paschim medinipur,,left_only
+Pashchim Champaran ,pashchim champaran,Pashchim Champaran,both
+,pashchim singhbhum,Pashchim Singhbhum,right_only
+Pashchimi Singhbhum ,pashchimi singhbhum,,left_only
+Patan ,patan,Patan,both
+Pathanamthitta ,pathanamthitta,,left_only
+Pathankot ,pathankot,,left_only
+Patiala ,patiala,Patiala,both
+Patna ,patna,Patna,both
+,pattanamtitta,Pattanamtitta,right_only
+,pauri garhwal,Pauri Garhwal,right_only
+Peddapalli ,peddapalli,,left_only
+Perambalur ,perambalur,Perambalur,both
+Peren ,peren,,left_only
+Phek ,phek,Phek,both
+Pilibhit ,pilibhit,Pilibhit,both
+Pithoragarh ,pithoragarh,Pithoragarh,both
+Porbandar ,porbandar,Porbandar,both
+Prakasam ,prakasam,Prakasam,both
+Pratapgarh ,pratapgarh,Pratapgarh,both
+Puducherry ,puducherry,Puducherry,both
+Pudukkottai ,pudukkottai,Pudukkottai,both
+Pulwama ,pulwama,Pulwama,both
+Punch ,punch,Punch,both
+Pune ,pune,Pune,both
+Purba Champaran ,purba champaran,Purba Champaran,both
+Purba Medinipur ,purba medinipur,,left_only
+,purba singhbhum,Purba Singhbhum,right_only
+Purbi Singhbhum ,purbi singhbhum,,left_only
+Puri ,puri,Puri,both
+Purnia ,purnia,Purnia,both
+Puruliya ,puruliya,Puruliya,both
+Rae Bareli ,rae bareli,Rae Bareli,both
+Raichur ,raichur,Raichur,both
+Raigarh ,raigarh,Raigarh,both
+Raipur ,raipur,Raipur,both
+Raisen ,raisen,Raisen,both
+,raj nandgaon,Raj Nandgaon,right_only
+Rajanna Sircilla ,rajanna sircilla,,left_only
+,rajauri,Rajauri,right_only
+Rajgarh ,rajgarh,Rajgarh,both
+Rajkot ,rajkot,Rajkot,both
+Rajnandgaon ,rajnandgaon,,left_only
+Rajouri ,rajouri,,left_only
+Rajsamand ,rajsamand,Rajsamand,both
+Ramanagara ,ramanagara,,left_only
+Ramanathapuram ,ramanathapuram,Ramanathapuram,both
+Ramban ,ramban,,left_only
+Ramgarh ,ramgarh,,left_only
+Rampur ,rampur,Rampur,both
+Ranchi ,ranchi,Ranchi,both
+Ranga Reddy ,ranga reddy,,left_only
+,rangareddi,Rangareddi,right_only
+Ratlam ,ratlam,Ratlam,both
+Ratnagiri ,ratnagiri,Ratnagiri,both
+Rayagada ,rayagada,Rayagada,both
+Reasi ,reasi,,left_only
+Rewa ,rewa,Rewa,both
+Rewari ,rewari,Rewari,both
+,ri-bhoi,Ri-Bhoi,right_only
+Ribhoi ,ribhoi,,left_only
+Rohtak ,rohtak,Rohtak,both
+Rohtas ,rohtas,Rohtas,both
+,rudra prayag,Rudra Prayag,right_only
+Rudraprayag ,rudraprayag,,left_only
+Rupnagar ,rupnagar,Rupnagar,both
+Sabar Kantha ,sabar kantha,Sabar Kantha,both
+Sagar ,sagar,Sagar,both
+Saharanpur ,saharanpur,Saharanpur,both
+Saharsa ,saharsa,Saharsa,both
+Sahibganj ,sahibganj,Sahibganj,both
+Sahibzada Ajit Singh Nagar ,sahibzada ajit singh nagar,,left_only
+,saiha,Saiha,right_only
+Salem ,salem,Salem,both
+Samastipur ,samastipur,Samastipur,both
+Samba ,samba,,left_only
+Sambalpur ,sambalpur,Sambalpur,both
+Sambhal ,sambhal,,left_only
+Sangareddy ,sangareddy,,left_only
+Sangli ,sangli,Sangli,both
+Sangrur ,sangrur,Sangrur,both
+Sant Kabir Nagar ,sant kabir nagar,Sant Kabir Nagar,both
+,sant ravi das nagar,Sant Ravi Das Nagar,right_only
+Sant Ravidas Nagar (Bhadohi) ,sant ravidas nagar (bhadohi),,left_only
+,saraikela kharsawan,Saraikela Kharsawan,right_only
+Saraikela-Kharsawan ,saraikela-kharsawan,,left_only
+Saran ,saran,Saran,both
+Satara ,satara,Satara,both
+Satna ,satna,Satna,both
+Sawai Madhopur ,sawai madhopur,Sawai Madhopur,both
+Sehore ,sehore,Sehore,both
+Senapati ,senapati,Senapati,both
+Seoni ,seoni,Seoni,both
+Sepahijala ,sepahijala,,left_only
+Serchhip ,serchhip,Serchhip,both
+Shahdara ,shahdara,,left_only
+Shahdol ,shahdol,Shahdol,both
+Shahid Bhagat Singh Nagar ,shahid bhagat singh nagar,,left_only
+Shahjahanpur ,shahjahanpur,Shahjahanpur,both
+Shajapur ,shajapur,Shajapur,both
+Shamli ,shamli,,left_only
+Sheikhpura ,sheikhpura,Sheikhpura,both
+Sheohar ,sheohar,Sheohar,both
+Sheopur ,sheopur,Sheopur,both
+Shimla ,shimla,Shimla,both
+Shimoga ,shimoga,Shimoga,both
+Shivpuri ,shivpuri,Shivpuri,both
+,shravasti,Shravasti,right_only
+Shrawasti ,shrawasti,,left_only
+Shupiyan ,shupiyan,,left_only
+Siang ,siang,,left_only
+,sibsagar,Sibsagar,right_only
+,siddharth nagar,Siddharth Nagar,right_only
+Siddharthnagar ,siddharthnagar,,left_only
+Siddipet ,siddipet,,left_only
+Sidhi ,sidhi,Sidhi,both
+Sikar ,sikar,Sikar,both
+Simdega ,simdega,Simdega,both
+Sindhudurg ,sindhudurg,Sindhudurg,both
+Singrauli ,singrauli,,left_only
+Sirmaur ,sirmaur,Sirmaur,both
+Sirohi ,sirohi,Sirohi,both
+Sirsa ,sirsa,Sirsa,both
+Sitamarhi ,sitamarhi,Sitamarhi,both
+Sitapur ,sitapur,Sitapur,both
+Sivaganga ,sivaganga,Sivaganga,both
+Sivasagar ,sivasagar,,left_only
+Siwan ,siwan,Siwan,both
+Solan ,solan,Solan,both
+Solapur ,solapur,Solapur,both
+Sonbhadra ,sonbhadra,Sonbhadra,both
+,sonepat,Sonepat,right_only
+,sonepur,Sonepur,right_only
+Sonipat ,sonipat,,left_only
+Sonitpur ,sonitpur,Sonitpur,both
+South ,south,,left_only
+,south 24 parganas,South 24 Parganas,right_only
+South Andaman ,south andaman,,left_only
+South District ,south district,,left_only
+South East ,south east,,left_only
+South Garo Hills ,south garo hills,South Garo Hills,both
+South Goa ,south goa,South Goa,both
+South Salmara Mancachar ,south salmara mancachar,,left_only
+,south sikkim,South Sikkim,right_only
+South Tripura ,south tripura,South Tripura,both
+South Twenty Four Pargana ,south twenty four pargana,,left_only
+South West ,south west,,left_only
+South West Garo Hills ,south west garo hills,,left_only
+South West Khasi Hills ,south west khasi hills,,left_only
+Sri Potti Sriramulu Nello ,sri potti sriramulu nello,,left_only
+Srikakulam ,srikakulam,Srikakulam,both
+Srinagar ,srinagar,Srinagar,both
+Subarnapur ,subarnapur,,left_only
+Sukma ,sukma,,left_only
+Sultanpur ,sultanpur,Sultanpur,both
+Sundargarh ,sundargarh,Sundargarh,both
+Supaul ,supaul,Supaul,both
+Surajpur ,surajpur,,left_only
+Surat ,surat,Surat,both
+Surendranagar ,surendranagar,Surendranagar,both
+Surguja ,surguja,Surguja,both
+Suryapet ,suryapet,,left_only
+Tamenglong ,tamenglong,Tamenglong,both
+Tapi ,tapi,,left_only
+Tarn Taran ,tarn taran,,left_only
+Tawang ,tawang,Tawang,both
+Tehri Garhwal ,tehri garhwal,Tehri Garhwal,both
+Thane ,thane,Thane,both
+Thanjavur ,thanjavur,Thanjavur,both
+The Dangs ,the dangs,The Dangs,both
+The Nilgiris ,the nilgiris,,left_only
+Theni ,theni,Theni,both
+Thiruvallur ,thiruvallur,Thiruvallur,both
+Thiruvananthapuram ,thiruvananthapuram,Thiruvananthapuram,both
+Thiruvarur ,thiruvarur,Thiruvarur,both
+Thoothukkudi ,thoothukkudi,,left_only
+,thoothukudi,Thoothukudi,right_only
+Thoubal ,thoubal,Thoubal,both
+Thrissur ,thrissur,Thrissur,both
+Tikamgarh ,tikamgarh,Tikamgarh,both
+Tinsukia ,tinsukia,Tinsukia,both
+Tirap ,tirap,Tirap,both
+,tiruchchirappalli,Tiruchchirappalli,right_only
+Tiruchirappalli ,tiruchirappalli,,left_only
+Tirunelveli ,tirunelveli,,left_only
+,tirunelveli kattabo,Tirunelveli Kattabo,right_only
+Tiruppur ,tiruppur,,left_only
+Tiruvannamalai ,tiruvannamalai,Tiruvannamalai,both
+Tonk ,tonk,Tonk,both
+Tuensang ,tuensang,Tuensang,both
+Tumkur ,tumkur,Tumkur,both
+Udaipur ,udaipur,Udaipur,both
+Udalguri ,udalguri,,left_only
+Udham Singh Nagar ,udham singh nagar,Udham Singh Nagar,both
+Udhampur ,udhampur,Udhampur,both
+Udupi ,udupi,Udupi,both
+Ujjain ,ujjain,Ujjain,both
+Ukhrul ,ukhrul,Ukhrul,both
+Umaria ,umaria,Umaria,both
+Una ,una,Una,both
+Unakoti ,unakoti,,left_only
+Unnao ,unnao,Unnao,both
+,upper dibang valley,Upper Dibang Valley,right_only
+Upper Siang ,upper siang,Upper Siang,both
+Upper Subansiri ,upper subansiri,Upper Subansiri,both
+Uttar Bastar Kanker ,uttar bastar kanker,,left_only
+Uttar Dinajpur ,uttar dinajpur,Uttar Dinajpur,both
+,uttar kannand,Uttar Kannand,right_only
+Uttara Kannada ,uttara kannada,,left_only
+Uttarkashi ,uttarkashi,Uttarkashi,both
+Vadodara ,vadodara,Vadodara,both
+Vaishali ,vaishali,Vaishali,both
+Valsad ,valsad,Valsad,both
+Varanasi ,varanasi,Varanasi,both
+Vellore ,vellore,Vellore,both
+Vidisha ,vidisha,Vidisha,both
+Vikarabad ,vikarabad,,left_only
+,villupuram,Villupuram,right_only
+Viluppuram ,viluppuram,,left_only
+Virudhunagar ,virudhunagar,Virudhunagar,both
+Visakhapatnam ,visakhapatnam,,left_only
+,vishakhapatnam,Vishakhapatnam,right_only
+Vizianagaram ,vizianagaram,Vizianagaram,both
+Wanaparthy ,wanaparthy,,left_only
+,warangal,Warangal,right_only
+Warangal Rural ,warangal rural,,left_only
+Warangal Urban ,warangal urban,,left_only
+Wardha ,wardha,Wardha,both
+Washim ,washim,Washim,both
+Wayanad ,wayanad,Wayanad,both
+West ,west,,left_only
+West District ,west district,,left_only
+West Garo Hills ,west garo hills,West Garo Hills,both
+West Godavari ,west godavari,West Godavari,both
+,west imphal,West Imphal,right_only
+West Jaintia Hills ,west jaintia hills,,left_only
+West Kameng ,west kameng,West Kameng,both
+West Karbi Anglong ,west karbi anglong,,left_only
+West Khasi Hills ,west khasi hills,West Khasi Hills,both
+,west midnapore,West Midnapore,right_only
+,west nimar,West Nimar,right_only
+West Siang ,west siang,West Siang,both
+,west sikkim,West Sikkim,right_only
+West Tripura ,west tripura,West Tripura,both
+Wokha ,wokha,Wokha,both
+Y.S.R. ,y.s.r.,,left_only
+Yadadri Bhuvanagiri ,yadadri bhuvanagiri,,left_only
+Yadgir ,yadgir,,left_only
+,yamuna nagar,Yamuna Nagar,right_only
+Yamunanagar ,yamunanagar,,left_only
+Yanam ,yanam,Yanam,both
+Yavatmal ,yavatmal,Yavatmal,both
+Zunheboto ,zunheboto,Zunheboto,both

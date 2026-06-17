@@ -1,0 +1,179 @@
+{
+    "top_count_intervention": {
+        "Uttar Pradesh": {
+            "High Intervention Priority": 61,
+            "Total_Districts": 75
+        },
+        "Bihar": {
+            "High Intervention Priority": 38,
+            "Total_Districts": 38
+        },
+        "Madhya Pradesh": {
+            "High Intervention Priority": 32,
+            "Total_Districts": 51
+        },
+        "Assam": {
+            "High Intervention Priority": 24,
+            "Total_Districts": 33
+        },
+        "Jharkhand": {
+            "High Intervention Priority": 23,
+            "Total_Districts": 24
+        },
+        "Rajasthan": {
+            "High Intervention Priority": 22,
+            "Total_Districts": 33
+        },
+        "Chhattisgarh": {
+            "High Intervention Priority": 16,
+            "Total_Districts": 27
+        },
+        "Odisha": {
+            "High Intervention Priority": 16,
+            "Total_Districts": 30
+        },
+        "Gujarat": {
+            "High Intervention Priority": 15,
+            "Total_Districts": 33
+        },
+        "West Bengal": {
+            "High Intervention Priority": 10,
+            "Total_Districts": 19
+        }
+    },
+    "top_count_cost_risk": {
+        "Arunachal Pradesh": {
+            "High-Cost & Specific-Risk": 19,
+            "Total_Districts": 20
+        },
+        "Nagaland": {
+            "High-Cost & Specific-Risk": 11,
+            "Total_Districts": 11
+        },
+        "Meghalaya": {
+            "High-Cost & Specific-Risk": 11,
+            "Total_Districts": 11
+        },
+        "Manipur": {
+            "High-Cost & Specific-Risk": 9,
+            "Total_Districts": 9
+        },
+        "Mizoram": {
+            "High-Cost & Specific-Risk": 8,
+            "Total_Districts": 8
+        },
+        "Assam": {
+            "High-Cost & Specific-Risk": 4,
+            "Total_Districts": 33
+        },
+        "Uttar Pradesh": {
+            "High-Cost & Specific-Risk": 2,
+            "Total_Districts": 75
+        },
+        "Jammu & Kashmir": {
+            "High-Cost & Specific-Risk": 2,
+            "Total_Districts": 20
+        },
+        "Tripura": {
+            "High-Cost & Specific-Risk": 2,
+            "Total_Districts": 8
+        },
+        "Sikkim": {
+            "High-Cost & Specific-Risk": 1,
+            "Total_Districts": 4
+        }
+    },
+    "top_count_leaders": {
+        "Tamil Nadu": {
+            "Healthcare Leaders": 32,
+            "Total_Districts": 32
+        },
+        "Telangana": {
+            "Healthcare Leaders": 27,
+            "Total_Districts": 31
+        },
+        "Maharastra": {
+            "Healthcare Leaders": 26,
+            "Total_Districts": 36
+        },
+        "Karnataka": {
+            "Healthcare Leaders": 22,
+            "Total_Districts": 30
+        },
+        "Punjab": {
+            "Healthcare Leaders": 22,
+            "Total_Districts": 22
+        },
+        "Haryana": {
+            "Healthcare Leaders": 20,
+            "Total_Districts": 22
+        },
+        "Madhya Pradesh": {
+            "Healthcare Leaders": 19,
+            "Total_Districts": 51
+        },
+        "Gujarat": {
+            "Healthcare Leaders": 18,
+            "Total_Districts": 33
+        },
+        "Jammu & Kashmir": {
+            "Healthcare Leaders": 17,
+            "Total_Districts": 20
+        },
+        "Odisha": {
+            "Healthcare Leaders": 14,
+            "Total_Districts": 30
+        }
+    },
+    "top_pct_intervention": {
+        "Bihar": {
+            "High Intervention Priority (%)": 100.0
+        },
+        "Jharkhand": {
+            "High Intervention Priority (%)": 95.83
+        },
+        "Uttar Pradesh": {
+            "High Intervention Priority (%)": 81.33
+        },
+        "Assam": {
+            "High Intervention Priority (%)": 72.73
+        },
+        "Rajasthan": {
+            "High Intervention Priority (%)": 66.67
+        }
+    },
+    "top_pct_cost_risk": {
+        "Nagaland": {
+            "High-Cost & Specific-Risk (%)": 100.0
+        },
+        "Meghalaya": {
+            "High-Cost & Specific-Risk (%)": 100.0
+        },
+        "Arunachal Pradesh": {
+            "High-Cost & Specific-Risk (%)": 95.0
+        },
+        "Assam": {
+            "High-Cost & Specific-Risk (%)": 12.12
+        },
+        "Jammu & Kashmir": {
+            "High-Cost & Specific-Risk (%)": 10.0
+        }
+    },
+    "top_pct_leaders": {
+        "Himachal Pradesh": {
+            "Healthcare Leaders (%)": 100.0
+        },
+        "Punjab": {
+            "Healthcare Leaders (%)": 100.0
+        },
+        "Tamil Nadu": {
+            "Healthcare Leaders (%)": 100.0
+        },
+        "NCT of Delhi": {
+            "Healthcare Leaders (%)": 100.0
+        },
+        "Kerala": {
+            "Healthcare Leaders (%)": 92.86
+        }
+    }
+}

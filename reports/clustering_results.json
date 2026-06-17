@@ -1,0 +1,86 @@
+{
+    "optimal_k": 3,
+    "silhouette_scores": {
+        "2": 0.2042684686689586,
+        "3": 0.21316461551773713,
+        "4": 0.15215131330336137,
+        "5": 0.13439368952216393,
+        "6": 0.11274608627061165,
+        "7": 0.11632950983197886,
+        "8": 0.12441166010180356,
+        "9": 0.12774141845237058,
+        "10": 0.1305453822403422
+    },
+    "inertias": {
+        "2": 8724.390038280953,
+        "3": 7734.584678094875,
+        "4": 7064.357704040053,
+        "5": 6704.982111951095,
+        "6": 6399.327768283639,
+        "7": 6124.302489058293,
+        "8": 5879.338613111583,
+        "9": 5634.208490425415,
+        "10": 5454.33518822474
+    },
+    "cluster_sizes": {
+        "0": 288,
+        "1": 72,
+        "2": 346
+    },
+    "centroids_summary": {
+        "0": {
+            "Population below age 15 years (%)": 30.137777777777778,
+            "Sex ratio at birth for children born in the last five years (females per 1,000 males)": 936.4880208333334,
+            "Female population age 6 years and above who ever attended school (%)": 65.24743055555555,
+            "Women age 20-24 years married before age 18 years (%)": 28.76909722222222,
+            "Current Use of Family Planning Methods (Currently Married Women Age 15-49  years) - Any modern method6 (%)": 50.63229166666667,
+            "Mothers who had at least 4 antenatal care visits  (for last birth in the 5 years before the survey) (%)": 49.58395833333333,
+            "Institutional births (in the 5 years before the survey) (%)": 84.69479166666666,
+            "Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)": 73.97626736111111,
+            "Children under 5 years who are stunted (height-for-age)18 (%)": 39.50345486111111,
+            "Women (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)": 23.36793402777778,
+            "All women age 15-49 years who are anaemic22 (%)": 60.43333333333334,
+            "Population living in households that use an improved sanitation facility2 (%)": 60.624583333333334,
+            "Households using clean fuel for cooking3 (%)": 36.9825,
+            "Men age 15 years and above who use any kind of tobacco (%)": 47.83506944444444,
+            "Households with any usual member covered under a health insurance/financing scheme (%)": 38.189166666666665,
+            "Average out-of-pocket expenditure per delivery in a public health facility (for last birth in the 5 years before the survey) (Rs.)": 2594.029513888889
+        },
+        "1": {
+            "Population below age 15 years (%)": 28.259444444444444,
+            "Sex ratio at birth for children born in the last five years (females per 1,000 males)": 982.5923611111111,
+            "Female population age 6 years and above who ever attended school (%)": 79.61916666666667,
+            "Women age 20-24 years married before age 18 years (%)": 15.531944444444445,
+            "Current Use of Family Planning Methods (Currently Married Women Age 15-49  years) - Any modern method6 (%)": 38.82194444444444,
+            "Mothers who had at least 4 antenatal care visits  (for last birth in the 5 years before the survey) (%)": 45.48388888888889,
+            "Institutional births (in the 5 years before the survey) (%)": 72.40277777777777,
+            "Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)": 67.09722222222223,
+            "Children under 5 years who are stunted (height-for-age)18 (%)": 30.138680555555556,
+            "Women (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)": 8.201736111111112,
+            "All women age 15-49 years who are anaemic22 (%)": 40.964375000000004,
+            "Population living in households that use an improved sanitation facility2 (%)": 83.07638888888889,
+            "Households using clean fuel for cooking3 (%)": 47.81472222222222,
+            "Men age 15 years and above who use any kind of tobacco (%)": 54.419444444444444,
+            "Households with any usual member covered under a health insurance/financing scheme (%)": 35.160763888888894,
+            "Average out-of-pocket expenditure per delivery in a public health facility (for last birth in the 5 years before the survey) (Rs.)": 7250.130555555557
+        },
+        "2": {
+            "Population below age 15 years (%)": 22.776300578034682,
+            "Sex ratio at birth for children born in the last five years (females per 1,000 males)": 942.6653179190752,
+            "Female population age 6 years and above who ever attended school (%)": 75.07098265895954,
+            "Women age 20-24 years married before age 18 years (%)": 14.491040462427748,
+            "Current Use of Family Planning Methods (Currently Married Women Age 15-49  years) - Any modern method6 (%)": 61.678670520231215,
+            "Mothers who had at least 4 antenatal care visits  (for last birth in the 5 years before the survey) (%)": 72.7392485549133,
+            "Institutional births (in the 5 years before the survey) (%)": 95.50838150289017,
+            "Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)": 83.08478323699423,
+            "Children under 5 years who are stunted (height-for-age)18 (%)": 29.15057803468208,
+            "Women (age 15-49 years) whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)": 15.304364161849712,
+            "All women age 15-49 years who are anaemic22 (%)": 55.21908959537572,
+            "Population living in households that use an improved sanitation facility2 (%)": 79.08040462427746,
+            "Households using clean fuel for cooking3 (%)": 69.728612716763,
+            "Men age 15 years and above who use any kind of tobacco (%)": 31.676242774566475,
+            "Households with any usual member covered under a health insurance/financing scheme (%)": 42.986026011560696,
+            "Average out-of-pocket expenditure per delivery in a public health facility (for last birth in the 5 years before the survey) (Rs.)": 3470.2667630057804
+        }
+    }
+}
